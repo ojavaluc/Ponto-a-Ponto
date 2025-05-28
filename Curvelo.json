@@ -1,0 +1,12 @@
+[
+  { "rua": "Rua das Palmeiras", "numero": "201", "bairro": "Centro" },
+  { "rua": "Rua Dom Pedro", "numero": "202", "bairro": "Bela Vista" },
+  { "rua": "Avenida Brasil", "numero": "203", "bairro": "São Geraldo" },
+  { "rua": "Rua Montes Claros", "numero": "204", "bairro": "JK" },
+  { "rua": "Rua São João", "numero": "205", "bairro": "Centro" },
+  { "rua": "Rua Belo Horizonte", "numero": "206", "bairro": "Santa Rita" },
+  { "rua": "Rua Goiás", "numero": "207", "bairro": "Cidade Nova" },
+  { "rua": "Rua do Mercado", "numero": "208", "bairro": "Centro" },
+  { "rua": "Rua dos Ferroviários", "numero": "209", "bairro": "JK" },
+  { "rua": "Rua Lagoa do Jacaré", "numero": "210", "bairro": "Bela Vista" }
+]
