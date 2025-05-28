@@ -92,11 +92,11 @@
   { "rua": "Rua do Ipê Roxo", "numero": "191", "bairro": "Centro" },
   { "rua": "Rua do Lago", "numero": "192", "bairro": "Bela Vista" },
   { "rua": "Rua da Pedreira", "numero": "193", "bairro": "Palha" },
-  { "rua": "Rua das Goiabeiras", "numero": "194", "bairro": "Centro" },
-  { "rua": "Rua do Café", "numero": "195", "bairro": "Jardim Imperial" },
-  { "rua": "Rua das Mangueiras", "numero": "196", "bairro": "Palha" },
-  { "rua": "Rua da Fazenda", "numero": "197", "bairro": "Centro" },
-  { "rua": "Rua do Pinheiro", "numero": "198", "bairro": "São José" },
-  { "rua": "Rua da Fonte", "numero": "199", "bairro": "Palha" },
-  { "rua": "Rua do Mirante", "numero": "200", "bairro": "Centro" }
+  { "rua": "Rua das Palmeiras", "numero": "194", "bairro": "Centro" },
+  { "rua": "Rua do Morro", "numero": "195", "bairro": "São José" },
+  { "rua": "Rua da Cachoeira", "numero": "196", "bairro": "Palha" },
+  { "rua": "Rua dos Girassóis", "numero": "197", "bairro": "Centro" },
+  { "rua": "Rua das Jabuticabeiras", "numero": "198", "bairro": "Jardim Imperial" },
+  { "rua": "Rua do Moinho", "numero": "199", "bairro": "Palha" },
+  { "rua": "Rua do Estrela", "numero": "200", "bairro": "Centro" }
 ]
