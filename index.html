@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Consulta de Endereços</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Consulta de Endereços</h1>
+
+    <label for="cidade">Selecione a cidade:</label>
+    <select id="cidade">
+      <option value="">-- Escolha uma cidade --</option>
+      <option value="diamantina">Diamantina</option>
+      <option value="curvelo">Curvelo</option>
+      <option value="couto">Couto</option>
+      <option value="cmd">Cmd</option>
+      <!-- Adicione outras cidades aqui -->
+    </select>
+
+    <label for="busca">Buscar (rua, número ou bairro):</label>
+    <input type="text" id="busca" placeholder="Digite algo..." />
+
+    <div id="resultados"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
