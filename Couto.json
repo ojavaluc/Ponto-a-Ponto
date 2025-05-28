@@ -1,0 +1,12 @@
+[
+  { "rua": "Rua Central", "numero": "301", "bairro": "Centro" },
+  { "rua": "Rua das Flores", "numero": "302", "bairro": "Vila Nova" },
+  { "rua": "Rua Esperança", "numero": "303", "bairro": "Bela Vista" },
+  { "rua": "Rua das Acácias", "numero": "304", "bairro": "Jardim Alegre" },
+  { "rua": "Rua do Cruzeiro", "numero": "305", "bairro": "Centro" },
+  { "rua": "Rua São Luiz", "numero": "306", "bairro": "Centro" },
+  { "rua": "Rua Vitória", "numero": "307", "bairro": "Vila Nova" },
+  { "rua": "Rua da Paz", "numero": "308", "bairro": "Bela Vista" },
+  { "rua": "Rua da Colina", "numero": "309", "bairro": "Jardim Alegre" },
+  { "rua": "Rua da Matriz", "numero": "310", "bairro": "Centro" }
+]
