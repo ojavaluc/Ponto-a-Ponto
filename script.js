@@ -8,7 +8,7 @@ document.getElementById("cidade").addEventListener("change", async (e) => {
 
   if (cidade) {
     try {
-      const response = await fetch(`dados/${cidade}.json`);
+      const response = await fetch(`${cidade}.json`); // Busca direto na raiz
       dados = await response.json();
     } catch (error) {
       resultadosDiv.innerHTML = `<p style="color:red">Erro ao carregar dados da cidade.</p>`;
