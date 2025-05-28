@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f9f9f9;
+  background-color: #fff8f2; /* Laranja bem claro no fundo */
   margin: 0;
   padding: 20px;
 }
@@ -8,21 +8,23 @@ body {
 .container {
   max-width: 600px;
   margin: auto;
-  background-color: #fff;
+  background-color: #ffffff;
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
   text-align: center;
   margin-bottom: 20px;
+  color: #ff5c00; /* Cor laranja da marca */
 }
 
 label {
   display: block;
   margin-top: 10px;
   font-weight: bold;
+  color: #333;
 }
 
 input, select {
@@ -35,6 +37,10 @@ input, select {
 
 #resultados {
   margin-top: 20px;
+  background-color: #fff3e5; /* fundo suave para resultados */
+  border-left: 4px solid #ff5c00;
+  padding: 10px;
+  border-radius: 5px;
 }
 
 .resultado-item {
