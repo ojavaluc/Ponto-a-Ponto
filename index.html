@@ -5,9 +5,34 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Consulta de Endereços</title>
   <link rel="stylesheet" href="style.css" />
+  <style>
+    .logo-container {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+    }
+
+    .logo {
+      max-width: 150px;
+      opacity: 0;
+      transform: translateY(-20px);
+      animation: fadeInUp 1s ease-out forwards;
+    }
+
+    @keyframes fadeInUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
 </head>
 <body>
   <div class="container">
+    <div class="logo-container">
+      <img src="Logo_Laranja-1-1024x638.png" alt="Logo da empresa" class="logo" />
+    </div>
+
     <h1>Consulta de Endereços</h1>
 
     <label for="cidade">Selecione a cidade:</label>
