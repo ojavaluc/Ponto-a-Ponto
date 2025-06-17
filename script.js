@@ -19,7 +19,7 @@ document.getElementById("cidade").addEventListener("change", async (e) => {
 
   if (cidade) {
     try {
-      const response = await fetch(`${cidade}.json`);
+      const response = await fetch(`dados/${cidade}.json`);
       if (!response.ok) throw new Error("Arquivo não encontrado");
       dados = await response.json();
     } catch (error) {
