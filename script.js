@@ -20,7 +20,7 @@ document.getElementById("cidade").addEventListener("change", async (e) => {
   if (cidade) {
     try {
       // Aqui removi "dados/" para buscar na raiz
-      const response = await fetch(`${cidade}.json`);
+const response = await fetch(`${cidade}.json`);
       if (!response.ok) throw new Error("Arquivo não encontrado");
       dados = await response.json();
     } catch (error) {
